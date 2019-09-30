@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TipCalculatorActivity</string>
+    <string name="title">Tip Calculator</string>
+    <string name="percent_label">Select a tip percentage</string>
+    <string name="percent1">10%</string>
+    <string name="percent2">20%</string>
+    <string name="percent3">30%</string>
+    <string name="amount_label">Enter your check amount:</string>
+    <string name="amt_input">Amount input</string>
+    <string name="cal">Calculate</string>
+    <string name="error_string"> Error Calculation</string>
+    <string name="output_tip"> Your calculated tip is</string>
+    <string name="output_total"> Your total is</string>
+    <string name="title_activity_tip_calculator">TipCalculator</string>
+
+
+</resources>
